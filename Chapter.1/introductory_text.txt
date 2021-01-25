@@ -1,0 +1,18 @@
+Teaser question: width of a Boolean data type
+1. 8 bytes (why not bits) for header + 1 byte (why not bit?) for true/false = 9 bytes. So approximated to 16 bytes by Java Virtual Machine (JVM)
+2. why JVM? why won't the CPU in the current machine store it?
+
+Q&A portion
+1. source code (why not just code?)
+2. Udemy's Q&A has a nice program editor.
+3. Once you paste your java program there seeking clarification, it will appear nicely formatted and colour coded.
+4. Supplement your code with image attachment.
+5. Search Q&A before asking your question. Search within a certain lecture to narrow your search.
+6. Ask a specific question and ask it as a new question.
+
+Source code:
+1. Typing in the code in the editor.
+2. Running the code
+3. Solve the errors
+
+
